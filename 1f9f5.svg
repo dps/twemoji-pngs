@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 35.999775 36"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="1f9f5.svg"
+   width="35.999775"
+   height="36">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="6.5555556"
+     inkscape:cx="18"
+     inkscape:cy="18"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     d="M 35,36 C 34.581,36 34.191,35.735 34.052,35.316 33.388,33.326 31.595,32 25,32 c -0.553,0 -1,-0.447 -1,-1 0,-0.553 0.447,-1 1,-1 5.635,0 9.653,0.797 10.948,4.684 0.175,0.524 -0.108,1.091 -0.632,1.265 C 35.211,35.983 35.104,36 35,36 Z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="fill:#553788" />
+  <path
+     d="M 3,3 25,3 25,33 3,33 Z"
+     id="path6"
+     inkscape:connector-curvature="0"
+     style="fill:#553788" />
+  <path
+     d="M 26,4 2,4 C 1.45,4 0,1 0,1 0,0.45 0.45,0 1,0 l 26,0 c 0.55,0 1,0.45 1,1 0,0 -1.45,3 -2,3 z m 0,28 -24,0 c -0.55,0 -2,3 -2,3 0,0.55 0.45,1 1,1 l 26,0 c 0.55,0 1,-0.45 1,-1 0,0 -1.45,-3 -2,-3 z"
+     id="path8"
+     inkscape:connector-curvature="0"
+     style="fill:#c1694f" />
+  <path
+     d="M 23,7 5,7 C 4.45,7 4,6.55 4,6 4,5.45 4.45,5 5,5 l 18,0 c 0.55,0 1,0.45 1,1 0,0.55 -0.45,1 -1,1 z m 0,4 -18,0 C 4.45,11 4,10.55 4,10 4,9.45 4.45,9 5,9 l 18,0 c 0.55,0 1,0.45 1,1 0,0.55 -0.45,1 -1,1 z m 0,4 -18,0 C 4.45,15 4,14.55 4,14 4,13.45 4.45,13 5,13 l 18,0 c 0.55,0 1,0.45 1,1 0,0.55 -0.45,1 -1,1 z m 0,4 -18,0 C 4.45,19 4,18.55 4,18 4,17.45 4.45,17 5,17 l 18,0 c 0.55,0 1,0.45 1,1 0,0.55 -0.45,1 -1,1 z m 0,4 -18,0 C 4.45,23 4,22.55 4,22 4,21.45 4.45,21 5,21 l 18,0 c 0.55,0 1,0.45 1,1 0,0.55 -0.45,1 -1,1 z m 0,4 -18,0 C 4.45,27 4,26.55 4,26 4,25.45 4.45,25 5,25 l 18,0 c 0.55,0 1,0.45 1,1 0,0.55 -0.45,1 -1,1 z m 0,4 -18,0 C 4.45,31 4,30.55 4,30 4,29.45 4.45,29 5,29 l 18,0 c 0.55,0 1,0.45 1,1 0,0.55 -0.45,1 -1,1 z"
+     id="path10"
+     inkscape:connector-curvature="0"
+     style="fill:#744eaa" />
+  <path
+     d="M 17.261,7 7.739,7 C 7.332,7 7,6.668 7,6.261 L 7,5.739 C 7,5.332 7.332,5 7.739,5 l 9.523,0 C 17.668,5 18,5.332 18,5.739 l 0,0.523 C 18,6.668 17.668,7 17.261,7 Z m 0,4 -9.522,0 C 7.332,11 7,10.668 7,10.261 L 7,9.739 C 7,9.332 7.332,9 7.739,9 l 9.523,0 C 17.668,9 18,9.332 18,9.739 l 0,0.523 C 18,10.668 17.668,11 17.261,11 Z m 0,4 -9.522,0 C 7.332,15 7,14.668 7,14.261 L 7,13.738 C 7,13.332 7.332,13 7.739,13 l 9.523,0 C 17.668,13 18,13.332 18,13.739 l 0,0.523 C 18,14.668 17.668,15 17.261,15 Z m 0,4 -9.522,0 C 7.332,19 7,18.668 7,18.261 L 7,17.738 C 7,17.332 7.332,17 7.739,17 l 9.523,0 C 17.668,17 18,17.332 18,17.739 l 0,0.523 C 18,18.668 17.668,19 17.261,19 Z m 0,4 -9.522,0 C 7.332,23 7,22.668 7,22.261 L 7,21.738 C 7,21.332 7.332,21 7.739,21 l 9.523,0 C 17.668,21 18,21.332 18,21.739 l 0,0.523 C 18,22.668 17.668,23 17.261,23 Z m 0,4 -9.522,0 C 7.332,27 7,26.668 7,26.261 L 7,25.738 C 7,25.332 7.332,25 7.739,25 l 9.523,0 C 17.668,25 18,25.332 18,25.739 l 0,0.523 C 18,26.668 17.668,27 17.261,27 Z m 0,4 -9.522,0 C 7.332,31 7,30.668 7,30.261 L 7,29.738 C 7,29.332 7.332,29 7.739,29 l 9.523,0 C 17.668,29 18,29.332 18,29.739 l 0,0.523 C 18,30.668 17.668,31 17.261,31 Z"
+     id="path12"
+     inkscape:connector-curvature="0"
+     style="fill:#9266cc" />
+</svg>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 36 28"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="1f4f7.svg"
+   width="36"
+   height="28">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="6.5555556"
+     inkscape:cx="18"
+     inkscape:cy="14"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     d="M 4,1 C 4,1 4,0 5,0 l 6,0 c 0,0 1,0 1,1 L 12,3 4,3 4,1 Z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="fill:#66757f" />
+  <path
+     d="M 0,6 C 0,6 0,2 4,2 l 28,0 c 0,0 4,0 4,4 l 0,18 c 0,0 0,4 -4,4 L 4,28 C 4,28 0,28 0,24 L 0,6 Z"
+     id="path6"
+     inkscape:connector-curvature="0"
+     style="fill:#31373d" />
+  <circle
+     cx="21"
+     cy="15"
+     r="10"
+     id="circle8"
+     style="fill:#ccd6dd" />
+  <circle
+     cx="21"
+     cy="15"
+     r="8"
+     id="circle10"
+     style="fill:#31373d" />
+  <circle
+     cx="21"
+     cy="15"
+     r="5"
+     id="circle12"
+     style="fill:#3b88c3" />
+  <circle
+     cx="32.5"
+     cy="5.5"
+     r="1.5"
+     id="circle14"
+     style="fill:#ffffff" />
+  <path
+     d="M 12,5.5 C 12,6.329 11.329,7 10.5,7 l -5,0 C 4.671,7 4,6.329 4,5.5 4,4.671 4.671,4 5.5,4 l 5,0 C 11.329,4 12,4.671 12,5.5 Z"
+     id="path16"
+     inkscape:connector-curvature="0"
+     style="fill:#f5f8fa" />
+</svg>

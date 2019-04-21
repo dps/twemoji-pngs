@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 36 36"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="1f643.svg"
+   width="36"
+   height="36">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="6.5555556"
+     inkscape:cx="18"
+     inkscape:cy="18"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     d="M 0,18 C 0,8.059 8.059,0 18,0 27.941,0 36,8.059 36,18 36,27.941 27.941,36 18,36 8.059,36 0,27.941 0,18"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="fill:#ffcc4d" />
+  <path
+     d="M 8.665,12.871 C 8.843,13.032 9.109,13.042 9.3,12.9 9.339,12.871 13.222,10 18,10 c 4.766,0 8.662,2.871 8.7,2.9 0.191,0.142 0.457,0.13 0.635,-0.029 0.177,-0.16 0.217,-0.424 0.094,-0.628 C 27.3,12.029 24.212,7 18,7 11.788,7 8.699,12.028 8.571,12.243 8.448,12.448 8.487,12.711 8.665,12.871 Z"
+     id="path6"
+     inkscape:connector-curvature="0"
+     style="fill:#664500" />
+  <ellipse
+     cx="11.5"
+     cy="21.5"
+     rx="2.5"
+     ry="3.5"
+     id="ellipse8"
+     style="fill:#664500" />
+  <ellipse
+     cx="24.5"
+     cy="21.5"
+     rx="2.5"
+     ry="3.5"
+     id="ellipse10"
+     style="fill:#664500" />
+</svg>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 36 31.04561"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="1f6eb.svg"
+   width="36"
+   height="31.04561">
+  <metadata
+     id="metadata38">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs36" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview34"
+     showgrid="false"
+     inkscape:zoom="6.5555556"
+     inkscape:cx="18"
+     inkscape:cy="18"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     d="m 36,18.04561 0,13 -36,0 0,-13 36,0 z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="fill:#5d9040" />
+  <path
+     d="m 0,20.04561 36,0 0,6 -36,0 z"
+     id="path6"
+     inkscape:connector-curvature="0"
+     style="fill:#ccd6dd" />
+  <path
+     d="m 10,23.04561 c 0,0.553 -0.448,1 -1,1 l -6,0 c -0.552,0 -1,-0.447 -1,-1 0,-0.553 0.448,-1 1,-1 l 6,0 c 0.552,0 1,0.447 1,1 z m 12,0 c 0,0.553 -0.447,1 -1,1 l -6,0 c -0.552,0 -1,-0.447 -1,-1 0,-0.553 0.448,-1 1,-1 l 6,0 c 0.553,0 1,0.447 1,1 z m 12,0 c 0,0.553 -0.447,1 -1,1 l -6,0 c -0.553,0 -1,-0.447 -1,-1 0,-0.553 0.447,-1 1,-1 l 6,0 c 0.553,0 1,0.447 1,1 z"
+     id="path8"
+     inkscape:connector-curvature="0"
+     style="fill:#f5f8fa" />
+  <circle
+     cx="19.034"
+     cy="11.70161"
+     r="1.5"
+     id="circle10"
+     style="fill:#67757f" />
+  <circle
+     cx="28.489"
+     cy="8.1166096"
+     r="1.5"
+     id="circle12"
+     style="fill:#67757f" />
+  <path
+     d="m 16.354,6.3826096 c 1.037,1.093 8.003,-0.963 5.677,-2.258 -7.063,-4.555 -12.927,-4.492 -11.166,-2.849 1.984,1.85 3.309,3.227 5.489,5.107 z"
+     id="path14"
+     inkscape:connector-curvature="0"
+     style="fill:#5dadec" />
+  <path
+     d="m 34.972,2.6206096 c 0.409,1.889 -3.829,3.899 -5.718,4.308 L 12.182,10.62761 c -1.889,0.409 -9.158,0.381 -9.567,-1.5080004 -0.437,-2.017 4.211,-4.494 6.1,-4.903 l 19.058,-4.129 c 1.888,-0.409 6.79,0.644 7.199,2.533 z"
+     id="path16"
+     inkscape:connector-curvature="0"
+     style="fill:#ccd6dd" />
+  <path
+     d="m 30.844,0.2266096 c -0.38,0.378 -0.982,0.612 -1.356,0.913 -0.545,0.438 -0.369,1.839 0.843,1.384 1.038,-0.389 1.928,-1.168 2.361,-1.768 -0.581,-0.224 -1.216,-0.403 -1.848,-0.529 z"
+     id="path18"
+     inkscape:connector-curvature="0"
+     style="fill:#67757f" />
+  <path
+     d="m 2.586,8.7456096 c -0.177,-0.818 -1.325,-5.873 -1.502,-6.691 -0.532,-2.455 3.588,0.745 5.756,2.845 -1.785,0.921 -3.434,1.92 -4.254,3.846 z m 0.792,0.209 c 0.872,-0.759 4.017,-1.382 2.407,1.013 C 3.489,13.53461 1.257,13.95361 1.723,12.83061 c 0.526,-1.265 1.045,-2.56 1.655,-3.8760004 z m 12.254,-0.704 c 0.492,-1.418 7.691,-2.434 6.106,-0.3 -4.55,7.0680004 -9.914,9.4380004 -8.991,7.2120004 1.041,-2.506 1.676,-4.307 2.885,-6.9120004 z"
+     id="path20"
+     inkscape:connector-curvature="0"
+     style="fill:#5dadec" />
+  <circle
+     cx="26.941999"
+     cy="3.3376095"
+     r="1"
+     id="circle22"
+     style="fill:#9aaab4" />
+  <circle
+     cx="24.01"
+     cy="3.9726098"
+     r="1"
+     id="circle24"
+     style="fill:#9aaab4" />
+  <circle
+     cx="21.077999"
+     cy="4.6086092"
+     r="1"
+     id="circle26"
+     style="fill:#9aaab4" />
+  <circle
+     cx="18.146"
+     cy="5.2436094"
+     r="1"
+     id="circle28"
+     style="fill:#9aaab4" />
+  <circle
+     cx="15.214"
+     cy="5.8786097"
+     r="1"
+     id="circle30"
+     style="fill:#9aaab4" />
+  <circle
+     cx="12.282"
+     cy="6.5136099"
+     r="1"
+     id="circle32"
+     style="fill:#9aaab4" />
+</svg>
