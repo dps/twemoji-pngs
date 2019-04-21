@@ -4,7 +4,7 @@
 
 This repository contains the v2 [twemoji](https://github.com/twitter/twemoji) svgs processed by Inkscape with
 ```
-for a in ~/proj/emoji/svg/*.svg; do ./inkscape --verb=FitCanvasToDrawing --verb=FileSave --verb=FileQuit ; done
+for a in *.svg; do ./inkscape --verb=FitCanvasToDrawing --verb=FileSave --verb=FileQuit ; done
 ```
 
 Which means each file has a computed bounding box in the resulting `svg`. This is important for use with some tools (e.g. specific versions of Imagemagick) which clip the original twemoji files incorrectly when converting to raster formats.
